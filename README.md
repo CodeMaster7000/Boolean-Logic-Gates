@@ -2,7 +2,7 @@
 
 ## About
 
-A set of JavaScript programs to demonstrate Boolean logic gates and their truth tables.
+A JavaScript script to demonstrate Boolean logic gates and their truth tables.
 
 ## Implementation
 
